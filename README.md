@@ -18,4 +18,8 @@ CSS
 4. Condensed .s-e-o,.o-r-m,.s-m-m img to .content1 img
 5. Condensed .s-e-o,.o-r-m,.s-m-m h2 to .content1 h2
 6. Added comments
+<<<<<<< HEAD
 7. Changed the margin-botom pixels to 25px under benefits1
+=======
+7. Changed the margin-botom pixels to 25px under benefits1
+>>>>>>> 3caf48c58c23ef5e0a313be994984d798351fda8
