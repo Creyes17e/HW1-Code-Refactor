@@ -10,25 +10,25 @@ body {
 }
 
 /* Style of Header */
-.header {
+.sos {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+.sos h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.sos h1 .seo {
     color: #d9dcd6;
 }
 
 /* Style of Navigation*/
 
-.header nav {
+.sos nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +36,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+.sos nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+.sos nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -83,37 +83,6 @@ p {
     margin-left: 20px;
 }
 
-/* Style of benefits */
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-/* Style of the benefits1 box info */
-.benefits1 {
-    margin-bottom:25px;
-    color: #ffffff;
-}
-
-
-.benefits1 h2 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-
-.benefits1 img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /* Style of the content1 box info */
 .content1 {
     margin-bottom: 20px;
@@ -131,6 +100,40 @@ p {
 .content1 h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* Style of benefits*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* Style of the benefits1 box info */
+.benefits1 {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefits1 p{
+    margin-bottom: 22px;
+}
+
+.benefits1 h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+.benefits1 img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 /* Style of the footer */
