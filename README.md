@@ -4,22 +4,22 @@
 https://creyes17e.github.io/HW1-Code-Refactor/
 
 ## Description 
+Refactored the Horiseon website to make sure it is accessible and properly running.
 
-
+The company itself offers services for search engine optimization, that way more users can
+find the customers website in any search engine. They also provide information
+about why having search engine optimization benefits a business marketing efforts overall.
 
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. Created a repo in github with a README.md, added an assets folder, and an index.html
+2. Through gitbash I cloned the repo
+3. I pulled and pushed the origin master to edit and update the HTML and CSS.
 
 
 
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Google Fu, My Bootcamp Instructor and TAs
