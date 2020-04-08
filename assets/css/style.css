@@ -120,6 +120,7 @@ p {
     color: #ffffff;
 }
 
+/*Side Note: Use 26px for .benefits1 p for internet explorer*/
 .benefits1 p{
     margin-bottom: 22px;
 }
